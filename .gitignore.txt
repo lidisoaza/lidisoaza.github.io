@@ -1,0 +1,6 @@
+# Para todos os arquivos e sub-pastas localizados na pasta vendor/
+vendor/
+# Para arquivos sql
+*.sql
+# Para pasta bootstrap
+scss/
